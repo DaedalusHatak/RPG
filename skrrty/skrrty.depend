@@ -1,7 +1,12 @@
 # depslib dependency file v1.0
-1623143257 source:c:\users\dyrektor\documents\cpp\skrrty\main.cpp
+1623305654 source:c:\users\dyrektor\documents\cpp\skrrty\main.cpp
 	<iostream>
 	<algorithm>
 	<string>
 	<conio.h>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+	<thread>
+	<limits>
 
