@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626176684 source:c:\users\dyrektor\documents\cpp\klasa\main.cpp
+	<iostream>
+	<ctime>
+	<conio.h>
+
